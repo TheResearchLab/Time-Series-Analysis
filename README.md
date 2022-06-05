@@ -6,3 +6,6 @@ The projects included in this repo are utilizing different time-series analysis 
 
 ## Project-1 (Stock Price Prediction)
 This implementation is based on an example from a Udemy course on time series analysis from user "The Lazy Programmer" (https://www.udemy.com/share/104I9M3@d_79VEA3--YnE3luHxE5tsxlJX83-bYqfvDYc70TUy0ehTfuqMEdsVT2vnO0r_ti/). The purpose of this project is for stock price prediction using the auto arima model. 
+
+## Project-2 (Volatility Prediction)
+This implementation is a follow up to project 1 where instead of predicting the future mean price we are predicting the future mean volatility using the ARCH/GARCH models. This also includes an exploration in predicting the volatility of positive covid tests. 
